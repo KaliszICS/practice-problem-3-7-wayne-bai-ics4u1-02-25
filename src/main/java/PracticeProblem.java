@@ -57,7 +57,7 @@ public class PracticeProblem {
 		}
 		return -1; // negative to avoid being tagged by search
 	}
-
+// hi
 	public static int searchMazeMoves(String[][] arr2d) {
 
 		int[][] stepCounterArray = getEmptyInt2d(arr2d);
