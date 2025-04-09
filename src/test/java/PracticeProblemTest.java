@@ -2,6 +2,8 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.*;
 import java.lang.reflect.Method;
 
+public class PracticeProblemTest {
+  
 @Test
 @DisplayName("")
 void SearchMazeMovesTest3() {
@@ -90,4 +92,5 @@ void SearchMazeMovesTest4() {
   catch (Exception e) {
     fail("Something weird happened");
   }
+}
 }
